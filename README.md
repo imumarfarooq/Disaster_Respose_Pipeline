@@ -61,7 +61,7 @@ python app/run.py
 
 Web-app open on the browser
 
-![master](images/Disaster1.png)
+![master](images/Disaster.png)
 
 ## 4 Testing
 
