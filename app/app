@@ -1,0 +1,4 @@
+ Flask Web-App
+ - Load the Database and model
+ - run the command python **app/run.py**
+ - webpage is open in a given address **http://0.0.0.0:3001/**
