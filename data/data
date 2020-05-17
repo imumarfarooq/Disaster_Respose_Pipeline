@@ -1,0 +1,5 @@
+ ETL Pipeline
+- Load the dataset ('Disaster_messages.csv and Disaster_categories.csv')
+- Merge the dataset
+- Perform Data wrangling techniques to clean tha data
+- Store the data into **SQlite Database**
