@@ -1,0 +1,7 @@
+ ML Pipeline
+ - Load data from **SQlite Database**
+ - Split the data into testing and training set
+ - Build a pipeline of text processing (NLP) and **Machine Learning Model**
+ - Train and tune the model using **GridSearchCV**
+ - Predict the output on test data
+ - Export the final model into **modelname.pkl** format
